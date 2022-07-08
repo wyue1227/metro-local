@@ -1,0 +1,15 @@
+UPDATE metro.station SET name = '河口', line = 1, position = 1, related = 11 WHERE id = 1;
+UPDATE metro.station SET name = '七贤岭', line = 1, position = 2, related = null WHERE id = 2;
+UPDATE metro.station SET name = '西安路', line = 1, position = 3, related = 8 WHERE id = 3;
+UPDATE metro.station SET name = '春柳', line = 1, position = 4, related = null WHERE id = 4;
+UPDATE metro.station SET name = '姚家', line = 1, position = 5, related = null WHERE id = 5;
+UPDATE metro.station SET name = '辛寨子', line = 2, position = 101, related = null WHERE id = 6;
+UPDATE metro.station SET name = '机场', line = 2, position = 102, related = null WHERE id = 7;
+UPDATE metro.station SET name = '西安路', line = 2, position = 103, related = 3 WHERE id = 8;
+UPDATE metro.station SET name = '东港', line = 2, position = 104, related = null WHERE id = 9;
+UPDATE metro.station SET name = '海之韵', line = 2, position = 105, related = null WHERE id = 10;
+UPDATE metro.station SET name = '河口', line = 12, position = 1001, related = 1 WHERE id = 11;
+UPDATE metro.station SET name = '蔡大岭', line = 12, position = 1002, related = null WHERE id = 12;
+UPDATE metro.station SET name = '黄泥川', line = 12, position = 1003, related = null WHERE id = 13;
+UPDATE metro.station SET name = '龙王塘', line = 12, position = 1004, related = null WHERE id = 14;
+UPDATE metro.station SET name = '旅顺新港', line = 12, position = 1005, related = null WHERE id = 15;
